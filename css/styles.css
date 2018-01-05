@@ -37,3 +37,16 @@ body{
   font-weight: bold;
   color:#5b3d34;
 }
+
+#project{
+  font-size:30pt;
+  text-shadow:1px 1px #8e7b76;
+}
+
+#hobby-title{
+  font-size:35pt;
+}
+
+#hobby{
+  font-size:12pt;
+}
