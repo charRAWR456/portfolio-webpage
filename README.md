@@ -13,7 +13,7 @@ This webpage will let you explore what has made Jamie who she is today. Included
 or
 
 1. Open web browser
-2. got to charrawr456.github.io/portfolio-webpage
+2. go to charrawr456.github.io/portfolio-webpage
 
 ## Technologies Used
 * HTML
